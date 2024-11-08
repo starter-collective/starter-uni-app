@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/github/v/release/starter-collective/starter-uni-app?style=flat&label=%20&color=%2309090b)](https://github.com/starter-collective/starter-uni-app/releases)
 
-The uni-app starter template, supports developing applet, H5, and App using Vue.js. / uni-app 初始化模板，支持使用 Vue.js 开发小程序、H5、App。
+The uni-app starter template, supports developing applet, H5, and App using Vue.js.
 
 - [Live Demo](https://starter-uni-app.netlify.app/)
 - [Play on Stackblitz](https://stackblitz.com/github/starter-collective/starter-uni-app)
