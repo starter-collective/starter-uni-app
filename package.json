@@ -1,7 +1,7 @@
 {
   "name": "starter-uni-app",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "packageManager": "pnpm@9.10.0",
   "description": "uni-app 启动模板，使用 Vue3 语法开发小程序、H5、安卓和 IOS App，提供 Vite + TypeScript 的工程化开发。",
   "author": "Kieran Wang <kieranwme@gmail.com> (https://github.com/kieranwv/)",
@@ -79,6 +79,7 @@
     "@dcloudio/vite-plugin-uni": "3.0.0-4080520251106001",
     "@types/node": "^24.10.2",
     "bumpp": "^10.3.2",
+    "conventional-changelog-cli": "^5.0.0",
     "eslint": "^9.39.1",
     "lint-staged": "^16.2.7",
     "npm-run-all2": "^8.0.4",
