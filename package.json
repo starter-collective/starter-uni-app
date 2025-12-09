@@ -1,7 +1,7 @@
 {
   "name": "starter-uni-app",
   "type": "module",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "packageManager": "pnpm@9.10.0",
   "description": "uni-app 启动模板，使用 Vue3 语法开发小程序、H5、安卓和 IOS App，提供 Vite + TypeScript 的工程化开发。",
   "author": "Kieran Wang <kieranwme@gmail.com> (https://github.com/kieranwv/)",

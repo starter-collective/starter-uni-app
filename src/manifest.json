@@ -1,9 +1,9 @@
 {
-  "name": "",
+  "name": "starter-uni-app",
   "appid": "",
-  "description": "",
-  "versionName": "1.0.0",
-  "versionCode": "100",
+  "description": "uni-app 启动模板，使用 Vue3 语法开发小程序、H5、安卓和 IOS App，提供 Vite + TypeScript 的工程化开发。",
+  "versionName": "0.1.0",
+  "versionCode": "2025120601",
   "app-plus": {
     "usingComponents": true,
     "nvueStyleCompiler": "uni-app",
